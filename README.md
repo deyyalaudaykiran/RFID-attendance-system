@@ -240,7 +240,7 @@ LCD pins connected to LPC2129 GPIO pins.
 # 🔌 Serial Communication Connections
 
 ```text id="m8z4sa"
-LPC2129 ↔ MAX232 ↔ DB9 Cable ↔ Linux PC
+LPC2129 ↔ DB9 Cable ↔ Linux PC
 ```
 
 ---
