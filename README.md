@@ -42,7 +42,7 @@ This project records employee attendance using RFID cards and displays login/log
 
 * LPC2129 communicates with Linux PC using UART0
 * Attendance data transmitted through DB9 serial cable
-* MAX232 used for serial voltage conversion
+
 
 ---
 
@@ -86,6 +86,7 @@ This project records employee attendance using RFID cards and displays login/log
 ├── i2c_driver.c
 ├── lcd4bit_driver.c
 ├── linux.c
+├── delay.c
 ├── header.h
 ├── data
 └── README.md
